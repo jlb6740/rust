@@ -63,6 +63,7 @@ static TARGETS: &'static [&'static str] = &[
     "armv7s-apple-ios",
     "asmjs-unknown-emscripten",
     "i386-apple-ios",
+    "i586-unknown-elfiamcu-eabi",
     "i586-pc-windows-msvc",
     "i586-unknown-linux-gnu",
     "i586-unknown-linux-musl",
